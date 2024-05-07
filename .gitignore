@@ -1,3 +1,5 @@
+*.paux
+plastex
 build
 
 ## Core latex/pdflatex auxiliary files:
