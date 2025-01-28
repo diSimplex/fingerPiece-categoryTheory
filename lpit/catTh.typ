@@ -17,7 +17,7 @@
   diSimplex projects.
 //\end{abstract}
 
-= Foundations
+= Foundations <fp-catTh-found>
 
 We will not worry too much about the Mathematical Foundations required for
 Category Theory, except to note that any work in Category Theory requires a keen
@@ -41,9 +41,9 @@ leave these details to the reader.
 
 Interestingly, one could found Category Theory itself axiomatically, as
 suggested by Saunders Mac Lane in his (canonical) exposition of "Categories for
-the Working Mathematician", #cite(<macLane1971categoriesWorkingMathematician>).
+the Working Mathematician", @macLane1971categoriesWorkingMathematician.
 Given Category Theory itself, then Set Theory might be founded using the ideas
-outlined in "Algebraic Set Theory", #cite(<joyalMoerdijk1995algSetTh>), or
+outlined in "Algebraic Set Theory", @joyalMoerdijk1995algSetTh, or
 alternatively as the Topos of Sets (see below).
 
 = Basic definitions
