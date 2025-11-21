@@ -1,21 +1,29 @@
-//% !TEX root = catTh.tex
-//% !LPiL preamble = ./ctPreamble.tex
-//% !LPiL postamble = ./ctPostamble.tex
-//% !LPiL collection = fingerPieces
+///////////////////////////////////////////////
+// Imports
+
+#import "@local/lpit-publisher-papers:0.2.0" : *
+
+///////////////////////////////////////////////
+// Front matter
+
+#setupDoc(yaml("lpit.yaml"))
 
 //\lpilTitle{fp-catTh}[
 //  Finger Pieces : Category Theory
 //]{
-  Finger Pieces : Category Theory
+//  Finger Pieces : Category Theory
 //}
 //\author{Stephen Gaito}
 
 //\maketitle
 
-//\begin{abstract}
+#abstract([
   In this finger piece, we explore the Category Theory used by the
   diSimplex projects.
-//\end{abstract}
+])
+
+///////////////////////////////////////////////
+// Body
 
 = Foundations <fp-catTh-found>
 
@@ -47,6 +55,9 @@ outlined in "Algebraic Set Theory", @joyalMoerdijk1995algSetTh, or
 alternatively as the Topos of Sets (see below).
 
 = Basic definitions
+
+/////////////////////////////////////////////////////////////////
+// End matter
 
 #bibliography("bib.yaml", style: "chicago-author-date")
 

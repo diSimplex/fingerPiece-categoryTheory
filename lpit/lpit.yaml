@@ -1,0 +1,26 @@
+# This is the LPiT definition YAML file for the <<>> document
+
+doc:
+  id: fp-catTh
+  name: catTh
+  type: paper
+
+title:
+  short: "Finger Pieces : Category Theory"
+  long: "Finger Pieces : Category Theory"
+
+authors:
+  - given: Stephen
+    family: Gaito
+    order: givenFamily
+    email: stephen@perceptisys.co.uk
+
+#packages:
+#  - location: <<>> # optional
+#    name: <<>
+#    version: <<>>
+
+abstract: |
+  In this finger piece, we explore the Category Theory used by the
+  diSimplex projects.
+
