@@ -49,7 +49,7 @@ leave these details to the reader.
 
 Interestingly, one could found Category Theory itself axiomatically, as
 suggested by Saunders Mac Lane in his (canonical) exposition of "Categories for
-the Working Mathematician", @macLane1971categoriesWorkingMathematician.
+the Working Mathematician", #cite(<macLane1971categoriesWorkingMathematician>).
 Given Category Theory itself, then Set Theory might be founded using the ideas
 outlined in "Algebraic Set Theory", @joyalMoerdijk1995algSetTh, or
 alternatively as the Topos of Sets (see below).
@@ -59,5 +59,5 @@ alternatively as the Topos of Sets (see below).
 /////////////////////////////////////////////////////////////////
 // End matter
 
-#bibliography("bib.yaml", style: "chicago-author-date")
+#bibliography("doc.bib")
 
