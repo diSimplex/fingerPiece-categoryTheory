@@ -59,5 +59,5 @@ alternatively as the Topos of Sets (see below).
 /////////////////////////////////////////////////////////////////
 // End matter
 
-#bibliography("doc.bib")
+#bibliography("doc.bib", style: "alphanumeric")
 
