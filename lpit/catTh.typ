@@ -6,16 +6,7 @@
 ///////////////////////////////////////////////
 // Front matter
 
-#setupDoc(yaml("lpit.yaml"))
-
-//\lpilTitle{fp-catTh}[
-//  Finger Pieces : Category Theory
-//]{
-//  Finger Pieces : Category Theory
-//}
-//\author{Stephen Gaito}
-
-//\maketitle
+#show: doc => setupDoc(yaml("lpit.yaml"), doc)
 
 #abstract([
   In this finger piece, we explore the Category Theory used by the
