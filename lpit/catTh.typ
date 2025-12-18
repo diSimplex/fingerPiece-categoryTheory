@@ -47,6 +47,9 @@ alternatively as the Topos of Sets (see below).
 
 = Basic definitions
 
+
+= Functors <catTh-functors>
+
 /////////////////////////////////////////////////////////////////
 // End matter
 
