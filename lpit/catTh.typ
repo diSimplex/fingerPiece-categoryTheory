@@ -16,7 +16,7 @@
 ///////////////////////////////////////////////
 // Body
 
-= Foundations <fp-catTh-found>
+= Foundations <catTh-found>
 
 We will not worry too much about the Mathematical Foundations required for
 Category Theory, except to note that any work in Category Theory requires a keen
